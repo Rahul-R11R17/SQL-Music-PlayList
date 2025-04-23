@@ -1,4 +1,4 @@
-# SQL-MusicPlaylist_Project
+# SQL-MusicPlaylist
 
 Objective: Analyze a complex music playlist database consisting of more than 10 tables, aiming to assist the organization in understanding its business growth through the provision of insights and answers to key questions.
 
